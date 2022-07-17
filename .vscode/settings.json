@@ -1,0 +1,6 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/mnt/romi/install/romi_interfaces/local/lib/python3.10/dist-packages/romi_interfaces",
+        "/mnt/romi/src/romi_astar/romi_astar"
+    ]
+}
